@@ -1,0 +1,15 @@
+{
+    "name": "dduers/jquery-frontend-modules",
+    "description": "A collection of jQuery frontend modules",
+    "type": "library",
+    "require": {},
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Daniel Duersteler",
+            "email": "daniel.duersteler@xsite.ch",
+            "homepage": "https://www.xsite.ch",
+            "role": "Developer"
+        }
+    ]
+}
